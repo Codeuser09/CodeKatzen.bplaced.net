@@ -1,0 +1,30 @@
+#downButton{
+    position: relative;
+    top: 260px;
+}
+
+#upButton{
+    position: relative;
+    top: 250px;
+}
+
+#shootButton{
+    position: relative;
+    top: 270px;
+}
+
+#canvas1{
+    position: absolute;
+    border: 2px solid black;
+    background: blue;
+    top: 0px;
+    left: 100px;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+body{
+    overflow: hidden;
+}
